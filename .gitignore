@@ -1,0 +1,6 @@
+node_modules/
+hero_images/
+hero_images_reversed/
+Pytesseract/
+venv/
+uploads/
